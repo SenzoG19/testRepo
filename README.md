@@ -1,4 +1,4 @@
-![check-code-coverage](https://img.shields.io/badge/coverage-82%25-brightgreen)
-# testRepo
+# testRepo ![check-code-coverage](https://img.shields.io/badge/coverage-82%25-brightgreen)
+
 myTestRepo
 
